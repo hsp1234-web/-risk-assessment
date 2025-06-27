@@ -43,3 +43,4 @@ websockets==14.2
 yarl==1.20.1
 yfinance==0.2.63
 PyYAML>=5.1 # 添加 PyYAML
+tenacity>=8.0.0 # 添加 tenacity 用於重試
